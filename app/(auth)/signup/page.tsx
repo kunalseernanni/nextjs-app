@@ -1,8 +1,9 @@
+import { SignupComponent } from "@/app/Components/Signup";
 
 export default function Signup() {
     return (
       <div>
-        Signup
+        <SignupComponent></SignupComponent>
       </div>
     );
   }
